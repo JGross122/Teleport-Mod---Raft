@@ -1,0 +1,14 @@
+{
+  "name": "TeleportMod",
+  "author": "MrWydra",
+  "description": "Teleport Mod",
+  "version": "1.1.0",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "https://cdn.discordapp.com/attachments/464789413436588043/998614031986331810/banner.png",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/teleport-mod/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": []
+}
